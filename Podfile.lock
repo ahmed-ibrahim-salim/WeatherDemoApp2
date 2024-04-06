@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.6.4)
+  - ReachabilitySwift (5.0.0)
+  - Realm (10.47.0):
+    - Realm/Headers (= 10.47.0)
+  - Realm/Headers (10.47.0)
+  - RealmSwift (10.47.0):
+    - Realm (= 10.47.0)
+  - SDWebImage (5.19.0):
+    - SDWebImage/Core (= 5.19.0)
+  - SDWebImage/Core (5.19.0)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+  - SwiftLint (0.54.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.6.2)
+  - ReachabilitySwift
+  - RealmSwift (~> 10)
+  - SDWebImage (~> 5.0)
+  - SVProgressHUD
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - ReachabilitySwift
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Realm: e43fb540ae947497e3ea8a662443256920602060
+  RealmSwift: 8b06ed06b5d16749ae0c4d91c0cba414a9e28189
+  SDWebImage: 981fd7e860af070920f249fd092420006014c3eb
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+  SwiftLint: c1de071d9d08c8aba837545f6254315bc900e211
+
+PODFILE CHECKSUM: 3a0fe29a8d470bfb94279375a3a4e12ef3a85069
+
+COCOAPODS: 1.14.3
